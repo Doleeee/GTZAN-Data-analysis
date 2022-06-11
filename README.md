@@ -14,6 +14,6 @@ audio data와 원본 tabular data는 위 링크에서 다운로드할 수 있습
   * 생성모델 구축
   * 최적 모델 4종 분류 성능 테스트
 
-* 데이터 별 분류 성능(정확도 및 RMES) 비교
+* 데이터 별 분류 성능(정확도 및 RMSE) 비교
 ![image](https://user-images.githubusercontent.com/86818579/173196035-783bc8dc-4036-4ac4-9d8d-9533a94db4e0.png)
 
