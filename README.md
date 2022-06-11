@@ -3,7 +3,7 @@
 Kaggle의 audio data와 tabular data를 이용하여 프로젝트를 진행하였습니다.<br>
 audio data와 원본 tabular data는 위 링크에서 다운로드할 수 있습니다.<br>
 프로젝트 진행 과정은 다음과 같습니다. 
-![image](https://user-images.githubusercontent.com/86818579/173196217-7daa73ed-acab-4913-9331-db939ac45fff.png)
+![image](https://user-images.githubusercontent.com/86818579/173196463-f2d51a38-0baa-4c07-8052-965b170c135e.png)
 
 * data
   * 원본 3초 데이터
