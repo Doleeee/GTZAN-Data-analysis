@@ -6,8 +6,8 @@ audio data와 원본 tabular data는 <a href="https://www.kaggle.com/datasets/an
 ![image](https://user-images.githubusercontent.com/86818579/173196463-f2d51a38-0baa-4c07-8052-965b170c135e.png)
 
 * data
- * 원본 3초 데이터
- * PCA를 이용하여 30차원으로 축소한 원본 3초 데이터
+  * 원본 3초 데이터
+  * PCA를 이용하여 30차원으로 축소한 원본 3초 데이터
   * PCA를 이용하여 30차원으로 축소한 원본 3초 1D 데이터
   * VAE를 이용하여 2차원으로 축소한 원본 3초 1D 데이터
 * code
