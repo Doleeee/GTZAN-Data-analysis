@@ -1,13 +1,13 @@
 # GTZAN-Data-analysis
-* 원본 데이터(<a href="https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification">Kaggle</a>)<br>
+* 음악 장르 분류 및 생성
 Kaggle의 audio data와 tabular data를 이용하여 프로젝트를 진행하였습니다.<br>
-audio data와 원본 tabular data는 위 링크에서 다운로드할 수 있습니다.<br>
+audio data와 원본 tabular data는 <a href="https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification">여기</a>에서 다운로드할 수 있습니다.<br>
 프로젝트 진행 과정은 다음과 같습니다. 
 ![image](https://user-images.githubusercontent.com/86818579/173196463-f2d51a38-0baa-4c07-8052-965b170c135e.png)
 
 * data
-  * 원본 3초 데이터
-  * PCA를 이용하여 30차원으로 축소한 원본 3초 데이터
+ * 원본 3초 데이터
+ * PCA를 이용하여 30차원으로 축소한 원본 3초 데이터
   * PCA를 이용하여 30차원으로 축소한 원본 3초 1D 데이터
   * VAE를 이용하여 2차원으로 축소한 원본 3초 1D 데이터
 * code
